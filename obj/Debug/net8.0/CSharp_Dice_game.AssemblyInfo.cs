@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_Dice_game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c9c8fa4e1a4987e10490548de435c52ea1f1a78")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_Dice_game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_Dice_game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

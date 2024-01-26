@@ -1,0 +1,15 @@
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/bin/Debug/net8.0/CSharp_Dice_game
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/bin/Debug/net8.0/CSharp_Dice_game.deps.json
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/bin/Debug/net8.0/CSharp_Dice_game.runtimeconfig.json
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/bin/Debug/net8.0/CSharp_Dice_game.dll
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/bin/Debug/net8.0/CSharp_Dice_game.pdb
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.AssemblyInfoInputs.cache
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.AssemblyInfo.cs
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.csproj.CoreCompileInputs.cache
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.sourcelink.json
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.dll
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/refint/CSharp_Dice_game.dll
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.pdb
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/CSharp_Dice_game.genruntimeconfig.cache
+/Users/kaan/Lokale Dokumente/CSharp_Dice_game/obj/Debug/net8.0/ref/CSharp_Dice_game.dll
